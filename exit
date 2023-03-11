@@ -1,0 +1,34 @@
+[33mcommit dcaf58bdb60ee62b9733dafc4903c1df7cb7e166[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Thanawit Gerdprasert <azmadoppler@gmail.com>
+Date:   Wed Mar 8 16:01:05 2023 +0900
+
+    remove some personal info
+
+resume_thanawit_2023.pdf
+rireki_thanawit_2023.pdf
+
+[33mcommit dc12bcd66be5da7e4a1fa45de660e28535e81ecc[m
+Author: Thanawit Gerdprasert <azmadoppler@gmail.com>
+Date:   Tue Mar 7 18:11:50 2023 +0900
+
+    fix pdf file
+
+resume_thanawit_2023.pdf
+
+[33mcommit 8d3d1ab8b6ba018ecd331bae1562a987a4c17637[m
+Author: Thanawit Gerdprasert <azmadoppler@gmail.com>
+Date:   Tue Mar 7 18:08:13 2023 +0900
+
+    update and added resume
+
+README.md
+resume_thanawit_2023.pdf
+rireki_thanawit_2023.pdf
+
+[33mcommit 9ee572b85e37bfdd5cd17fba1ea90b53b2ed7088[m
+Author: Thanawit Gerdprasert <thanawit.g@ku.th>
+Date:   Fri Oct 15 18:04:54 2021 +0900
+
+    Initial commit
+
+README.md
