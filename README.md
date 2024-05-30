@@ -51,7 +51,6 @@
 ---
 
 
-![AzmaDoppler's GitHub stats](https://github-readme-stats.vercel.app/api?username=azmadoppler&show_icons=true&theme=merko&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmadoppler&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
