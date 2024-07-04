@@ -3,14 +3,14 @@
 # Greeting Stranger, This is Azma Doppler  <span style="font-size:10;">(aka. Thanawit Gerdprasert)</span> 👋 
 
 #### [Click Me For English Resume ](resume_thanawit_2023.pdf)
-#### [日本語版の履歴書はこっちですー！](rireki_thanawit_2023.pdf)
+#### [日本語版の履歴書](rireki_thanawit_2023.pdf)
 
 ---
 
 ### I am a Doctoral Student at Yamaguchi University
 - 🔥 Currently working on Machine Learning
   - Mainly Semi-Supervised Learning
-- 😊 Also trying to land a job in Japan 
+- 😊 Finally employed man
 
 
 ---
